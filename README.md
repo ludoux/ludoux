@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![ludoux's github stats](https://github-readme-stats.vercel.app/api?username=ludoux&count_private=true&hide=stars&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+Welcome! This is Lu Chang, student at NPU.
+
+[luu.moe](https://www.luu.moe) & [chang.lu]
+
 <!--
 **ludoux/ludoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
