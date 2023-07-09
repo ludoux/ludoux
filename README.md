@@ -4,7 +4,7 @@
 
 Welcome! This is Lu Chang, student at NPU.
 
-[luu.moe](https://www.luu.moe) & [chang.lu]
+[luu.moe](https://www.luu.moe)
 
 <!--
 **ludoux/ludoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
