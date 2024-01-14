@@ -2,7 +2,7 @@
 
 ![ludoux's github stats](https://github-readme-stats.vercel.app/api?username=ludoux&count_private=true&hide=stars&theme=solarized-light)
 
-Welcome! This is Lu Chang, student at NPU.
+Welcome! This is Lu Chang, student at Northwestern Polytechnical University, Xi'an, China.
 
 [luu.moe](https://www.luu.moe)
 
